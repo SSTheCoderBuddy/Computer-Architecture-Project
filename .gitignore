@@ -217,6 +217,14 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# VS Code directory
+.vscode/
+
+# Windows image/system cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 __marimo__/
 
 # Streamlit
